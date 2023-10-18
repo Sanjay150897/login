@@ -1,2 +1,2 @@
 # login
-This repository create for store multiple log in page formate.
+This repository is created to store multiple log-in page formate.
